@@ -16,7 +16,13 @@ public class Learn {
 	public void test3(){
 		System.out.println("第3次提交");
 	}
+<<<<<<< Updated upstream
   public void testMain(){
     	System.out.println("第4次提交");
   }
+=======
+	public void testMain(){
+		System.err.println("第四次提交");
+	}
+>>>>>>> Stashed changes
 }

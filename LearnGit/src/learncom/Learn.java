@@ -16,4 +16,7 @@ public class Learn {
 	public void test3(){
 		System.out.println("第3次提交");
 	}
+  public void testMain(){
+    
+  }
 }

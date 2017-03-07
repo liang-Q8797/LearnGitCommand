@@ -7,5 +7,13 @@ package learncom;
 */
 
 public class Learn {
-
+	public void test1(){
+		System.out.println("第一次提交");
+	}
+	public void test2(){
+		System.out.println("第2次提交");
+	}
+	public void test3(){
+		System.out.println("第3次提交");
+	}
 }

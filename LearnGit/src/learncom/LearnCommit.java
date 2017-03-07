@@ -10,7 +10,4 @@ public class LearnCommit {
 	public void test(){
 		System.out.println("第一次提交");
 	}
-	public void test2(){
-		System.out.println("远程仓库修改");
-	}
 }

@@ -7,7 +7,7 @@ package learncom;
 */
 
 public class LearnSecont {
-	public void test1(){
+	public void test2(){
 		
 	}
 }

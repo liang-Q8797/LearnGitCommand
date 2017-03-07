@@ -8,6 +8,6 @@ package learncom;
 
 public class LearnCommit {
 	public void test(){
-		System.out.println("第二次提交");
+		System.out.println("第一次提交");
 	}
 }

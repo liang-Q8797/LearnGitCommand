@@ -7,7 +7,5 @@ package learncom;
 */
 
 public class Learn {
-	public void test(){
-		
-	}
+
 }

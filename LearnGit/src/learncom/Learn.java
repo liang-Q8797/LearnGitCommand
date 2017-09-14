@@ -23,5 +23,7 @@ public class Learn {
 		System.out.println("第4次提交");
 	}
 
-	public void test(){};
+	public void test(){
+		System.out.println();
+	};
 }

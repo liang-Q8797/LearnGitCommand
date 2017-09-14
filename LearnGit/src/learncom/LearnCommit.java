@@ -13,4 +13,7 @@ public class LearnCommit {
 	public void test(){
 		System.out.println("第一次提交");
 	}
+	public void test(){
+		System.out.println("第一次提交");
+	}
 }
